@@ -18,10 +18,10 @@ I build complete, production-grade web platforms — from pixel-perfect frontend
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
-| [Buni Atelier](https://github.com/nj-bree/buni-atelier) | Pan-African luxury art marketplace | TypeScript · React · PostgreSQL · Express 5 | [↗ Live](https://buni-atelier.onrender.com) |
-| [Aṣa Global Aviation](https://github.com/nj-bree/asa-global) | Aviation ground services platform | React · Express · SQLite · Gmail API | [↗ Live](https://asa-global.onrender.com) |
-| [Ọlá Trails](https://github.com/nj-bree/ola-trails) | Luxury pan-African safari booking | React · Express · SQLite · Nodemailer | [↗ Live](https://ola-trails.onrender.com) |
-| [Ember Restaurant](https://github.com/nj-bree/ember-vatl) | Halal-certified restaurant platform | Vanilla HTML · CSS · JavaScript | [↗ Live](https://ember-vatl.onrender.com) |
+| [Buni Atelier](https://github.com/nj-bree/buni-atelier-showcase) | Pan-African luxury art marketplace | TypeScript · React · PostgreSQL · Express 5 | [↗ Live](https://buni-atelier.onrender.com) |
+| [Aṣa Global Aviation](https://github.com/nj-bree/asa-global-showcase) | Aviation ground services platform | React · Express · SQLite · Gmail API | [↗ Live](https://asa-global.onrender.com) |
+| [Ọlá Trails](https://github.com/nj-bree/ola-trails-showcase) | Luxury pan-African safari booking | React · Express · SQLite · Nodemailer | [↗ Live](https://ola-trails.onrender.com) |
+| [Ember Restaurant](https://github.com/nj-bree/ember-showcase) | Halal-certified restaurant platform | Vanilla HTML · CSS · JavaScript | [↗ Live](https://ember-vatl.onrender.com) |
 
 ---
 
@@ -32,18 +32,3 @@ I build complete, production-grade web platforms — from pixel-perfect frontend
 - **Portfolio** · [brenda-antony.netlify.app](https://brenda-antony.netlify.app)
 
 Open to **freelance projects** and **full-time roles** · Remote globally · Available immediately
-
-<!--
-**nj-bree/nj-bree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
