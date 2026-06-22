@@ -18,10 +18,10 @@ I build complete, production-grade web platforms — from pixel-perfect frontend
 
 | Project | Description | Stack | Live |
 |--------|-------------|-------|------|
-| [Buni Atelier](https://github.com/nj-bree/buni-atelier-showcase) | Pan-African luxury art marketplace | TypeScript · React · PostgreSQL · Express 5 | [↗ Live](https://buni-atelier-0ute.onrender.com) |
+| [Buni Atelier](https://github.com/nj-bree/buni-atelier-showcase) | Pan-African luxury art marketplace | TypeScript · React · PostgreSQL · Express 5 | [↗ Live](https://buni-atelier.onrender.com) |
 | [Aṣa Global Aviation](https://github.com/nj-bree/asa-global-showcase) | Aviation ground services platform | React · Express · SQLite · Gmail API | [↗ Live](https://asa-global.up.railway.app/) |
 | [Ọlá Trails](https://github.com/nj-bree/ola-trails-showcase) | Luxury pan-African safari booking | React · Express · SQLite · Nodemailer | [↗ Live](https://ola-trails.up.railway.app/) |
-| [Ember Restaurant](https://github.com/nj-bree/ember-showcase) | Halal-certified restaurant platform | Vanilla HTML · CSS · JavaScript | [↗ Live](https://ember-bc83.onrender.com) |
+| [Ember Restaurant](https://github.com/nj-bree/ember-showcase) | Halal-certified restaurant platform | Vanilla HTML · CSS · JavaScript | [↗ Live](https://ember-vatl.onrender.com/) |
 
 ---
 
