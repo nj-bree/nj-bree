@@ -2,14 +2,14 @@
 
 **Full-Stack Developer · Nairobi, Kenya**
 
-I build complete, production-grade web platforms — from pixel-perfect frontends to REST APIs, databases, and operational dashboards. I'm particularly drawn to products that serve African markets and tell African stories on the global stage.
+I build production-grade web platforms end-to-end — pixel-perfect frontends, solid REST APIs, real databases, and dashboards that people actually use. My work has powered live bookings, real M-Pesa transactions, and customer-facing storefronts across fintech, hospitality, aviation, and fashion. I'm drawn to products rooted in African contexts, built with the same craft and ambition as anything coming out of London or San Francisco.
 
 ---
 
 ### 🛠 Tech Stack
-
 **Frontend** · React · TypeScript · Vite · Tailwind CSS · Framer Motion · TanStack Query · Zod  
-**Backend** · Node.js · Express · REST APIs · PostgreSQL · SQLite · Drizzle ORM  
+**Backend** · Node.js · Express · Python · Flask · REST APIs · PostgreSQL · SQLite · Drizzle ORM · Firebase  
+**Integrations** · M-Pesa Daraja API · Africa's Talking SMS  
 **Tools** · Git · pnpm workspaces · OpenAPI · Render · Vercel · Figma
 
 ---
